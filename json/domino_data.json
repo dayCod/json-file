@@ -1,0 +1,32 @@
+{
+  "nama_toko": "Domino's Pizza",
+  "url_toko": "https://dominos.co.id",
+  "email_toko": "rateourpizza@dominos.co.id",
+  "kontak_toko": "1500-366",
+  "alamat_toko": "Sahid Sudirman Center 27th Floor , unit 27F JL. Jendral Sudirman Kav.86, Jakarta 10220",
+  "menu_toko": {
+    "value_deals": {
+      "paket_happy_1": ["Medium HT Cheese Mania", "Medium HT Super Value"],
+      "paket_happy_2": ["Medium HT Cheese Mania", "Medium HT Beef Delight", "Pizza Mania"],
+      "paket_happy_3": ["Medium HT Cheese Mania", "Pizza Mania", "Pizza Mania"],
+      "my_paket_1": ["Nasi Crispy Chicken Strips", "Frestea/Ades"],
+      "my_paket_2": ["Pizza Mania", "Tasty Stuffed Pocket", "Frestea/Ades"]
+    },
+    "pizza": {
+      "premium_pizza": ["Arabic Beef Kebab", "Arabic Chicken Kebab", "Ultimate Meat Overload", "Cheesy Meatball Blast", "Grilled Beef Supreme", "Chicken Dominator", "Ultimate Cheese Melt", "Newyorker Alfredo Beef Mushroom Truffle"],
+      "favorite_pizza": ["Chicken Delight", "Double Beef Burger", "Beef Pepperoni Feast", "Tuna Delight", "Meat & Meat"],
+      "super_value_pizza": ["Margherita", "Beef Delight", "Cheesy Sausage", "Chicken Pepperoni Feast"],
+      "pizza_mania": ["Chicken Sausage", "Chili Chicken", "Beef Rasher"]
+    },
+    "sides_and_desserts": {
+      "sides": ["Tasty Stuffed Pockets Kebab", "Tasty Stuffed Pockets Spicy Chicken Sausage with Cheese", "BBQ Meatball Potato Bake", "Potato Widges", "Tasty Stuffed Pockets Peppery Beef Sausage"],
+      "desserts": ["Chocolate Lava"],
+      "rice": ["Beef and Rice", "Chicken and Rice"],
+      "pasta": ["Spicy Tuna Mac'N Cheese Extra Cheese", "Spicy Tuna Mac'n Cheese", "Spicy Creamy Spaghetti", "Chicken Creamy Spaghetti with Cheese", "Beef Pepper Spaghetti"],
+      "chicken": ["Habanero Boneless Wings 6 Pcs", "Habanero Boneless Wings 3 Pcs", "Chick and Cheese Ring 10 Pcs", "Chick and Cheese Ring 6 Pcs", "Chicken Wings 10 Pcs", "Chicken Wings 5 Pcs"],
+      "bread": ["Cheesy Calzone Sticks", "Stuffed Kebab Bread", "Cheesy Bread", "Choco Bread Sticks", "Garlic Cheesy Rolls", "Bread Sticks"],
+      "sauce": ["Black Pepper Dipping Sauce", "Sambal Dipping Sauce", "Rustic Dipping Sauce", "BBQ Dipping Sauce", "Cheesy Dipping Sauce"]
+    },
+    "minuman": ["Lychee Tea", "Peach Tea", "Taro Milk", "Coca Cola", "Sprite", "Fanta", "Frestea", "Ades"]
+  }
+}
